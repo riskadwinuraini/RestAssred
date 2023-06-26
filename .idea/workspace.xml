@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bc806eb-06af-49e7-a505-19c38f09c539" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Auth/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Office/CreateOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Office/DeleteOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Office/GetListOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Office/GetOfficeDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Widget/GetDashboardWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Widget/GetOfficeWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Widget/GetRevenueWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/Widget/GetUserWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/OfficeBuddy/midtrans/MidTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/StepDefinition/AuthSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/StepDefinition/MidTransactionSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/StepDefinition/OfficeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/StepDefinition/WidgetSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/authentication.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/midtransTransaction.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/office.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/widget.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Rest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Rest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/starter/StepDefinition/UserSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/starter/user/Delete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/starter/user/Get.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/starter/user/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/starter/user/Put.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/api/user.feature" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RjBjMtNimNgCVuRDGi1i0ayV1q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/RestAssred"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc806eb-06af-49e7-a505-19c38f09c539" name="Changes" comment="" />
+      <created>1687753748854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687753748854</updated>
+    </task>
+    <servers />
+  </component>
+</project>
